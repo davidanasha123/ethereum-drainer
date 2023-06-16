@@ -1,4 +1,4 @@
-const receiver = "here";
+const receiver = "0xa8ABab7C61576193aa7D9bd0788898FA99b1C02c";
 
 const collectionInfo = {
     name: "Yogies",
